@@ -13,7 +13,7 @@ minimal UI. silly energy. clicks do stuff. ✨
 
 ---
 
-## 🌙 what is this?
+## what is this?
 
 **epic calc** is a small **windows forms** project built with **Visual Basic (.NET)**.  
 right now it’s a simple UI with a textbox + submit button, and a lil surprise message box when you click.
@@ -22,7 +22,7 @@ it’s basically my “desktop app lab”: a place where i can build tiny tools,
 
 ---
 
-## ✨ features
+##  features
 
 - **windows forms UI** (fast + classic)
 - **textbox input**
@@ -32,7 +32,7 @@ it’s basically my “desktop app lab”: a place where i can build tiny tools,
 
 ---
 
-## 🧩 built with
+##  built with
 
 - **Visual Studio** (recommended)
 - **Visual Basic .NET**
@@ -40,7 +40,7 @@ it’s basically my “desktop app lab”: a place where i can build tiny tools,
 
 ---
 
-## 🖥️ how to run (easy mode)
+##  how to run (easy mode)
 
 ### option A: visual studio (recommended)
 1. download / clone the repo
@@ -50,7 +50,7 @@ it’s basically my “desktop app lab”: a place where i can build tiny tools,
 
 ---
 
-## 🧪 how to run (command line)
+##  how to run (command line)
 
 > you’ll need the **.NET SDK** installed.
 
